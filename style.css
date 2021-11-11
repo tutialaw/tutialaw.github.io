@@ -1,0 +1,66 @@
+body{
+	background-color: #A0522D;
+	font-family: 'Playfair Display', serif;
+}
+input[type=text], select {
+	width: 50%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+  }
+input[type=email], select {
+	width: 50%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+  }
+input[type=password], select {
+	width: 50%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+  }
+  
+  button {
+	width: 50%;
+	background-color: #8B4513;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 17;
+	letter-spacing: 1px;
+  }
+  
+  button:hover {
+	background-color: #FF8C00;
+  }
+  
+.cc{
+	margin-left: 35%;
+	margin-top: 5%;
+}
+.greeting{
+	margin-left: 120px;
+	font-family: 'Playfair Display', serif;
+	color: #FFF5EE;
+}
+
+.daftar{
+	margin-left: 90px;
+	font-family: 'Playfair Display', serif;
+	color: #FFF5EE;
+}
+	
